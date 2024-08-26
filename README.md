@@ -38,7 +38,7 @@ Bem-vindo ao meu perfil no GitHub! Sou [Sua Profissão, ex.: Desenvolvedor de So
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=seunomeusuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=LuisGuilhermeMissura&show_icons=true&theme=radical)
 
 ## 🌍 Redes Sociais
 
