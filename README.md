@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Luís
 
-Bem-vindo ao meu perfil no GitHub! Sou [Sua Profissão, ex.: Desenvolvedor de Software] com paixão por [Seus Interesses, ex.: construir aplicações web, contribuir para projetos open-source, etc.]. Aqui, você encontrará uma coleção dos meus projetos, contribuições e ideias.
+Bem-vindo ao meu perfil no GitHub! Sou Analista de sistemas com paixão por aplicações web e dev de games. Aqui, você encontrará uma coleção dos meus projetos, contribuições e ideias de faculdade e mais.
 
 ## 🚀 Sobre Mim
 
