@@ -44,6 +44,8 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de sistemas com paixão por apli
 
 ![Estatísticas do GitHub de Seu Nome](https://github-readme-stats.vercel.app/api?username=LuisGuilhermeMissura&show_icons=true&theme=radical)
 
+<!--
+
 ## 🌍 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seunomeusuario)
@@ -56,6 +58,6 @@ Bem-vindo ao meu perfil no GitHub! Sou Analista de sistemas com paixão por apli
 - **[Outro Projeto](https://github.com/seunomeusuario/outro-projeto)**: Breve detalhes sobre o que ele faz.
 
 ---
-
+-->
 Sinta-se à vontade para explorar meus repositórios e entrar em contato se quiser colaborar em algo interessante!
 
